@@ -2,7 +2,7 @@
 
 # Why make: It looks easy to make atomic operations of numbers.
 
-# Get to know limits of JavaScripts when declaring or allocating variables and not a good option to make complicated operation in web front-end, main reason is because JS engine is way it is.
+# Get to know limits of JavaScripts when declaring or allocating variables and not a good option to make complicated operation in web front-end, main reason is because JS engine is way it is.(Get a sense of Turing-completeness)
 
 ## Strategy of programming the program.
 
