@@ -1,4 +1,7 @@
-# Project name: Calculator 단순 계산기 프로그램.
+# Project name: Calculator-error occurs(단순 계산기 프로그램-오류 존재).
+
+<img width="2024" height="980" alt="image" src="https://github.com/user-attachments/assets/c11c84a2-e427-4f39-a0fc-df701f2c23c4" />
+
 
 # Why make: It looks easy to make atomic operations of numbers.
 
