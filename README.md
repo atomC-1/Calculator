@@ -1,7 +1,7 @@
 # Project name: Building a Calculator with [javascirpt](https://en.wikipedia.org/wiki/JavaScript).
 # Purpose: 
 
-Experience computation and arithmetics and calulation.
+Experience computation and arithmetics and calulation and algorithm.
 
 # Conclusion:
 
